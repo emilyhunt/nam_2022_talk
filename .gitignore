@@ -1,6 +1,7 @@
 ## USER-SPECIFIC
 plots/*  # Don't particularly want to save a billion plots
-*.odp*  # The original slides version
+*.odp  # The original slides version
+"*.odp#"
 
 ## GITHUB DEFAULTS
 # Byte-compiled / optimized / DLL files
