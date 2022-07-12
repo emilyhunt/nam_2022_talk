@@ -1,7 +1,6 @@
 ## USER-SPECIFIC
-plots/**  # Don't particularly want to save a billion plots
-*.odp  # The original slides version
-*.odp#  # Libre office autosave files
+plots/*  # Don't particularly want to save a billion plots
+*.odp*  # The original slides version
 
 ## GITHUB DEFAULTS
 # Byte-compiled / optimized / DLL files
