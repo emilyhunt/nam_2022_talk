@@ -1,6 +1,6 @@
 # NAM 2022 clustering algorithms talk
 
-This repo contains a PDF of my slides and a Jupyter notebook with some clustering algorithms that you can play around with.
+This repo contains a [PDF of my slides](https://github.com/emilyhunt/nam_2022_talk/blob/main/slides.pdf) and [a Jupyter notebook](https://github.com/emilyhunt/nam_2022_talk/blob/main/nam_clustering_algorithm_demo.ipynb) with some clustering algorithms that you can play around with.
 
 I also recommend checking out...
 
